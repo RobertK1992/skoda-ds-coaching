@@ -1,4 +1,4 @@
-Data Science Coaching Projekt
+Data Science Coaching Projekt \
 Willkommen zum Data Science Coaching Projekt! Dieses Repository dient als zentrale Anlaufstelle für alle Materialien, Notebooks und Ressourcen, die im Rahmen des Coachings genutzt werden.
 
 Projektübersicht
